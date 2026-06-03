@@ -1,4 +1,4 @@
- backend/main.py
+# backend/main.py
 import sqlite3
 import hashlib
 import secrets
