@@ -7,7 +7,7 @@ import plotly.express as px
 
 # Configure streamlit
 st.set_page_config(page_title="Expen Pal ⚡🔥🚀", page_icon="🔮", layout="wide")
-API_URL = "http://127.0.0.1:8000"
+API_URL = "https://expal-2.onrender.com"
 
 # --- OFFLINE MODERN GLASSMORPHIC ENGINE (Local CSS Injector) ---
 st.markdown("""
